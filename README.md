@@ -42,8 +42,16 @@ Download and run: `hra.jar`
 
 ## Screenshots
 
-(Add screenshots here)
+- **Inventory**
+<img width="636" height="357" alt="scs_inventory" src="https://github.com/user-attachments/assets/07e33038-9d63-4f03-b343-647d6e7958cc" />
+<br><br>
 
+- **Dialogue**
+<img width="636" height="357" alt="scs_dial" src="https://github.com/user-attachments/assets/2bef653b-962d-4381-8861-424115eb7859" />
+<br><br>
+
+- **Pause menu**
+<img width="636" height="357" alt="scs_pause" src="https://github.com/user-attachments/assets/75859b91-f59a-49f8-8c08-c814ea049f4e" />
 
 
 ## Limitations
