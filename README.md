@@ -36,8 +36,7 @@ The player can move through scenes, switch between them, collect and store items
 
 ## Starting the game
 
-Download and run: `hra.jar`
-
+Download and run: [hra.jar](https://drive.google.com/file/d/11RVWzSL-ILKkw1_7bMgaYjfgLvT25K8Q/view?usp=sharing)
 
 
 ## Screenshots
