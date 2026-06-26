@@ -24,7 +24,7 @@ The player can move through scenes, switch between them, collect and store items
   - Moving the character by clicking on walkable areas
   - Interacting with objects through a context menu
   - Opening the inventory using the bag icon
-  - Navigating through menus and scene transitions
+  - Navigating through menus and scene switching
 
 - **Space**
   - Advance dialogue text
